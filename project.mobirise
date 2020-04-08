@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Decouvre boite",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "Découvre Boite",
-        "meta_descr": "Des paniers pour toutes les occasions.\nVenez découvrir nos spécialitées dans des coffrets pratiques et malins !",
+        "meta_descr": "Des coffrets cadeaux toute l'année, des actions pour vos associations. Venez découvrir nos spécialitées !",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -739,7 +739,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "L'association Découvre Boite aide et accompagne les associations dans leurs différents projets. Suivez leurs aventures avec nous !",
         "title": "Nos actions associatifs",
         "order": 5
       },
@@ -1404,8 +1404,8 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Des paniers pour toutes les occasions.\nVenez découvrir nos spécialitées dans des coffrets pratiques et malins !",
-        "title": "Coffrets professionnelles",
+        "meta_descr": "Pour remercier vos salariés ou vos meilleurs clients.... nous avons tous ce qu'il vous faut !\n",
+        "title": "Coffrets professionnels",
         "order": 2
       },
       "components": [
@@ -2609,7 +2609,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "Les coffrets pour une survie à la cool !",
         "title": "La dernière box",
         "order": 1
       },
@@ -3226,8 +3226,8 @@
     },
     "page7.html": {
       "settings": {
-        "meta_descr": "Déscription de nos différents coffrets :\nDes paniers pour toutes les occasions, en prose et en couleurs !",
-        "title": "La truffe en chocolat",
+        "meta_descr": "Découvre Boite vous accompagne dans le financement de vos projets associatifs et scolaires. Rejoignez l'aventure",
+        "title": "Financer vos associations",
         "order": 3
       },
       "components": [
